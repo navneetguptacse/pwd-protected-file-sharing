@@ -37,7 +37,7 @@ app.route("/file/:id").get(downloadHandler).post(downloadHandler);
 
 async function downloadHandler(req, res) {
   const file = await File.findById(req.params.id);
-  // console.log(file);
+  console.log(file);
   if (file.password != null) {
     if (req.body.password == null) {
       return res.render("password");
