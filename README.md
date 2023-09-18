@@ -2,7 +2,9 @@
 
 ### Description
 
-This is a simple and secure file sharing application built using Node.js and Express.js. It allows you to share files with others while ensuring that only authorized users with the correct password can access them. This project is designed with simplicity and security in mind, making it an ideal solution for sharing sensitive or confidential files.
+This is a simple and secure file sharing application built using Node.js and Express.js. It allows you to share files with others while ensuring that only authorized users with the correct password can access them.
+
+This project is designed with simplicity and security in mind, making it an ideal solution for sharing sensitive or confidential files.
 
 ### Key Features
 
