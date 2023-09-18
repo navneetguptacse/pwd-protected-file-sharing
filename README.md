@@ -47,7 +47,7 @@ To run the **Password-Protected File Sharing** application locally, follow these
     npm start
     ```
 
-5. Open your browser and navigate to `http://localhost:3000`.
+5. Open your browser and navigate to `[http://localhost:3000]`.
 
 ### Usage
 
